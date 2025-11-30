@@ -4,3 +4,9 @@ I will track this line and commit this line now.
 Any new change must start with two newline character and with the author.
 
 I am adding a new line to see if the file goes to modified state. Now it is unmodified.
+
+
+I am making this change to see if git is able to show me the correct difference.
+
+
+Again making changes I was not able to follow the earlier change
