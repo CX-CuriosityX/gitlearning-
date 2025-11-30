@@ -12,5 +12,10 @@ I am making this change to see if git is able to show me the correct difference.
 Again making changes I was not able to follow the earlier change
 
 
+
 --Negaive way --
 you are a looser
+
+--The positive way branch --
+Eveything will be good.
+
